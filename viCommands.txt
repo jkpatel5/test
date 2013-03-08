@@ -1,0 +1,14 @@
+
+
+SOme of the commands for VI editor
+it is pretty easy to use with only keyboard 
+
+:x - exit and save 
+:wq - exit and sav
+:q - to quit without saving
+:q! - quit without saving 
+:$ - cursor to end of curr line
+:w - begining of next word
+:0 - move cursor to first line in file
+:n - move cursor to lin n
+
