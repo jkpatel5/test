@@ -12,3 +12,4 @@ it is pretty easy to use with only keyboard
 :0 - move cursor to first line in file
 :n - move cursor to lin n
 
+look
